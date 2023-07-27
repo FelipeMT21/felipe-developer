@@ -21,8 +21,8 @@ const projects = [
         description: "Desafio proposto no curso The Complete 2023 Web Development Bootcamp. Neste projeto, criei um aplicativo chamado Keeper que permite ao usuário adicionar e apagar notas. O objetivo deste desafio foi aprimorar meus conhecimentos em React, JavaScript, manipulação do DOM e Node.js. O código-fonte está disponível no meu repositório do GitHub:",
         path: keeper,
         flexDirection: "row-reverse",
-        link: "",
-        github: ""
+        link: "https://keeper-note-xi.vercel.app/",
+        github: "https://github.com/FelipeMT21/keeper-note"
     },
     {
         title: "To Do List",
@@ -30,7 +30,7 @@ const projects = [
         path: todolist,
         flexDirection: "row",
         link: "",
-        github: ""
+        github: "https://github.com/FelipeMT21/todolist-project"
     },
     {
         title: "Simon Game",
@@ -56,8 +56,8 @@ export const allProjects = [
         description: "Desafio proposto no curso The Complete 2023 Web Development Bootcamp. Neste projeto, criei um aplicativo chamado Keeper que permite ao usuário adicionar e apagar notas. O objetivo deste desafio foi aprimorar meus conhecimentos em React, JavaScript, manipulação do DOM e Node.js. O código-fonte está disponível no meu repositório do GitHub:",
         path: keeper,
         flexDirection: "row-reverse",
-        link: "",
-        github: ""
+        link: "https://keeper-note-xi.vercel.app/",
+        github: "https://github.com/FelipeMT21/keeper-note"
     },
     {
         title: "To Do List",
@@ -65,7 +65,7 @@ export const allProjects = [
         path: todolist,
         flexDirection: "row",
         link: "",
-        github: ""
+        github: "https://github.com/FelipeMT21/todolist-project"
     },
     {
         title: "Simon Game",
