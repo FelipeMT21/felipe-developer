@@ -2,6 +2,7 @@ import './globals.css'
 import { openSans } from "@/app/fonts";
 import Sidebar from "@/app/components/Sidebar";
 import Footer from "./components/Footer";
+import WhatsApp from "./components/WhatsApp";
 
 export default function RootLayout({ children }) {
   return (
@@ -13,6 +14,7 @@ export default function RootLayout({ children }) {
       </head>
       <body>
       <Sidebar favicon="/favicon.ico" />
+      <WhatsApp />
       {children}
       <Footer />
       </body>

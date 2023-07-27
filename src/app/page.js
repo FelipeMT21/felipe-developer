@@ -14,7 +14,6 @@ export default function Home() {
 
   return (
     <div>
-      <WhatsApp />
       <Header />
       <Zoom in="true"><hr /></Zoom>
       <About />
