@@ -17,8 +17,8 @@ export default function RootLayout({ children }) {
       <Sidebar favicon="/favicon.ico" />
       <WhatsApp />
       {children}
-      <Footer />
       <Analytics />
+      <Footer />
       </body>
     </html>
   )
