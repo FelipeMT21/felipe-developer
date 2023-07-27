@@ -3,6 +3,7 @@ import { openSans } from "@/app/fonts";
 import Sidebar from "@/app/components/Sidebar";
 import Footer from "./components/Footer";
 import WhatsApp from "./components/WhatsApp";
+import { Analytics } from '@vercel/analytics/react';
 
 export default function RootLayout({ children }) {
   return (
@@ -17,6 +18,7 @@ export default function RootLayout({ children }) {
       <WhatsApp />
       {children}
       <Footer />
+      <Analytics />
       </body>
     </html>
   )
