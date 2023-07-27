@@ -5,7 +5,7 @@ import weatherProject from "/public/projects/weather-project.jpeg";
 import resultssumarycomponent from "/public/projects/results-summary-component-main.png";
 import previewcard from "/public/projects/previewcard.png";
 import todolist from "/public/projects/ToDoList.jpg";
-import keeper from "/public/projects/keeper.jpeg";
+import keeper from "/public/projects/Keeper.jpeg";
 
 const projects = [
     {
