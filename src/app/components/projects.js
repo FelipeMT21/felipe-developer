@@ -18,7 +18,7 @@ const projects = [
     },
     {
         title: "Keeper",
-        description: "Desafio proposto no curso The Complete 2023 Web Development Bootcamp. Neste projeto, criei um aplicativo chamado Keeper que permite ao usuário adicionar e apagar notas. O objetivo deste desafio foi aprimorar meus conhecimentos em React, JavaScript, manipulação do DOM e Node.js. O código-fonte está disponível no meu repositório do GitHub:",
+        description: "Neste projeto, criei um aplicativo chamado Keeper que permite ao usuário adicionar e apagar notas. O objetivo deste desafio foi aprimorar meus conhecimentos em React, JavaScript, manipulação do DOM e Node.js. O código-fonte está disponível no meu repositório do GitHub:",
         path: keeper,
         flexDirection: "row-reverse",
         link: "https://keeper-note-xi.vercel.app/",
@@ -26,7 +26,7 @@ const projects = [
     },
     {
         title: "To Do List",
-        description: "Desafio proposto no curso The Complete 2023 Web Development Bootcamp. Neste projeto, criei uma To-Do List integrada com o banco de dados MongoDB, permitindo ao usuário adicionar e apagar itens da lista, além de criar listas personalizadas através da URL, adicionando um nome após a barra '/'. O objetivo deste desafio foi aprimorar meus conhecimentos em JavaScript, Node.js, EJS, bancos de dados NoSQL e MongoDB. O código-fonte está disponível no meu repositório do GitHub:",
+        description: "Neste projeto, criei uma To-Do List integrada com o banco de dados MongoDB, permitindo ao usuário adicionar e apagar itens da lista, além de criar listas personalizadas através da URL, adicionando um nome após a barra '/'. O objetivo deste desafio foi aprimorar meus conhecimentos em JavaScript, Node.js, EJS, bancos de dados NoSQL e MongoDB. O código-fonte está disponível no meu repositório do GitHub:",
         path: todolist,
         flexDirection: "row",
         link: "",
@@ -53,7 +53,7 @@ export const allProjects = [
     },
     {
         title: "Keeper",
-        description: "Desafio proposto no curso The Complete 2023 Web Development Bootcamp. Neste projeto, criei um aplicativo chamado Keeper que permite ao usuário adicionar e apagar notas. O objetivo deste desafio foi aprimorar meus conhecimentos em React, JavaScript, manipulação do DOM e Node.js. O código-fonte está disponível no meu repositório do GitHub:",
+        description: "Neste projeto, criei um aplicativo chamado Keeper que permite ao usuário adicionar e apagar notas. O objetivo deste desafio foi aprimorar meus conhecimentos em React, JavaScript, manipulação do DOM e Node.js. O código-fonte está disponível no meu repositório do GitHub:",
         path: keeper,
         flexDirection: "row-reverse",
         link: "https://keeper-note-xi.vercel.app/",
@@ -61,7 +61,7 @@ export const allProjects = [
     },
     {
         title: "To Do List",
-        description: "Desafio proposto no curso The Complete 2023 Web Development Bootcamp. Neste projeto, criei uma To-Do List integrada com o banco de dados MongoDB, permitindo ao usuário adicionar e apagar itens da lista, além de criar listas personalizadas através da URL, adicionando um nome após a barra '/'. O objetivo deste desafio foi aprimorar meus conhecimentos em JavaScript, Node.js, EJS, bancos de dados NoSQL e MongoDB. O código-fonte está disponível no meu repositório do GitHub:",
+        description: "Neste projeto, criei uma To-Do List integrada com o banco de dados MongoDB, permitindo ao usuário adicionar e apagar itens da lista, além de criar listas personalizadas através da URL, adicionando um nome após a barra '/'. O objetivo deste desafio foi aprimorar meus conhecimentos em JavaScript, Node.js, EJS, bancos de dados NoSQL e MongoDB. O código-fonte está disponível no meu repositório do GitHub:",
         path: todolist,
         flexDirection: "row",
         link: "",
