@@ -80,7 +80,7 @@ export const allProjects = [
         title: "Simon Game",
         description: "Desafio proposto no curso The Complete 2023 Web Development Bootcamp. Neste projeto, criei um jogo do Simon que consiste em um desafio de memória com sequências de cores ou sons. O objetivo é repetir a sequência corretamente. O objetivo deste desafio foi aprimorar meus conhecimentos em JavaScript, funções e manipulação do DOM e jQuery para atualização da página. O código-fonte está disponível no meu repositório do GitHub:",
         path: simon,
-        flexDirection: "row-reverse",
+        flexDirection: "row",
         link: "https://felipemt21.github.io/simon-game-challenge/",
         github: "https://github.com/FelipeMT21/simon-game-challenge#my-process"
     },
@@ -88,7 +88,7 @@ export const allProjects = [
         title: "Drum Kit",
         description: "Desafio proposto no curso The Complete 2023 Web Development Bootcamp. Neste projeto, criei uma bateria virtual que toca sons de instrumentos quando clicada com o mouse ou quando as teclas corretas são pressionadas. O objetivo deste desafio foi aprimorar meus conhecimentos em JavaScript, funções e manipulação do DOM para atualização da página. O código-fonte está disponível no meu repositório do GitHub:",
         path: drumKit,
-        flexDirection: "row",
+        flexDirection: "row-reverse",
         link: "https://felipemt21.github.io/drum-kit/",
         github: "https://github.com/FelipeMT21/drum-kit"
 
@@ -97,7 +97,7 @@ export const allProjects = [
         title: "The Dice Game",
         description: "Desafio proposto no curso The Complete 2023 Web Development Bootcamp. Neste projeto, construí um jogo de dados que atualiza aleatoriamente os valores dos dados e exibe qual jogador venceu: Jogador 1 ou Jogador 2. O objetivo deste desafio foi aprimorar meus conhecimentos em JavaScript e no uso do DOM para manipulação da página. O código-fonte está disponível no meu repositório do GitHub:",
         path: theDiceGame,
-        flexDirection: "row-reverse",
+        flexDirection: "row",
         link: "https://felipemt21.github.io/the-dice-game/",
         github: "https://github.com/FelipeMT21/drum-kit"
     },
@@ -105,7 +105,7 @@ export const allProjects = [
         title: "Results Sumary Component",
         description: "Esta é uma solução que desenvolvi para o desafio de construir um componente de resumo de resultados de testes, com o objetivo de aprimorar meus conhecimentos em HTML, CSS, Grid, Flexbox e adaptação para mobile. O código-fonte está disponível no meu repositório do GitHub:",
         path: resultssumarycomponent,
-        flexDirection: "row",
+        flexDirection: "row-reverse",
         link: "https://felipemt21.github.io/results-summary-component/",
         github: "https://github.com/FelipeMT21/drum-kit"
     },
@@ -113,7 +113,7 @@ export const allProjects = [
         title: "Preview Card",
         description: "Esta é uma solução que desenvolvi para o desafio de construir um componente de visualização de produto, com o objetivo de aprimorar meus conhecimentos em HTML, CSS, Grid e Flexbox. O código-fonte está disponível no meu repositório do GitHub:",
         path: previewcard,
-        flexDirection: "row-reverse",
+        flexDirection: "row",
         link: "https://felipemt21.github.io/product-preview-card-component-main/",
         github: "https://github.com/FelipeMT21/product-preview-card-component-main"
     }
