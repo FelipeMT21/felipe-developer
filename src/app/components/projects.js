@@ -13,7 +13,7 @@ const projects = [
         description: "Desenvolvi o Projeto Clima, uma aplicação com uma API que fornece informações meteorológicas em tempo real para cidades. Com uma interface amigável, onde os usuários podem buscar dados como temperatura, umidade e velocidade do vento. Utilizando a API do OpenWeatherMap, integrei os dados necessários para fornecer informações atualizadas. Explore o meu Projeto Clima e confira as condições climáticas de suas cidades favoritas! O código-fonte está disponível no meu repositório do GitHub: ",
         path: weatherProject,
         flexDirection: "row",
-        link: "https://felipemt21.github.io/simon-game-challenge/",
+        link: "https://www.linkedin.com/posts/jo%C3%A3o-felipe-1028aa210_api-jquery-fullstack-activity-7068895592818589696-vCTm?utm_source=share&utm_medium=member_desktop",
         github: "https://github.com/FelipeMT21/weather-project"
     },
     {
@@ -24,14 +24,14 @@ const projects = [
         link: "https://keeper-note-xi.vercel.app/",
         github: "https://github.com/FelipeMT21/keeper-note"
     },
-    {
-        title: "To Do List",
-        description: "Neste projeto, criei uma To-Do List integrada com o banco de dados MongoDB, permitindo ao usuário adicionar e apagar itens da lista, além de criar listas personalizadas através da URL, adicionando um nome após a barra '/'. O objetivo deste desafio foi aprimorar meus conhecimentos em JavaScript, Node.js, EJS, bancos de dados NoSQL e MongoDB. O código-fonte está disponível no meu repositório do GitHub:",
-        path: todolist,
-        flexDirection: "row",
-        link: "",
-        github: "https://github.com/FelipeMT21/todolist-project"
-    },
+    // {
+    //     title: "To Do List",
+    //     description: "Neste projeto, criei uma To-Do List integrada com o banco de dados MongoDB, permitindo ao usuário adicionar e apagar itens da lista, além de criar listas personalizadas através da URL, adicionando um nome após a barra '/'. O objetivo deste desafio foi aprimorar meus conhecimentos em JavaScript, Node.js, EJS, bancos de dados NoSQL e MongoDB. O código-fonte está disponível no meu repositório do GitHub:",
+    //     path: todolist,
+    //     flexDirection: "row",
+    //     link: "",
+    //     github: "https://github.com/FelipeMT21/todolist-project"
+    // },
     {
         title: "Simon Game",
         description: "Desafio proposto no curso The Complete 2023 Web Development Bootcamp. Neste projeto, criei um jogo do Simon que consiste em um desafio de memória com sequências de cores ou sons. O objetivo é repetir a sequência corretamente. O objetivo deste desafio foi aprimorar meus conhecimentos em JavaScript, funções e manipulação do DOM e jQuery para atualização da página.  O código-fonte está disponível no meu repositório do GitHub:",
@@ -59,14 +59,14 @@ export const allProjects = [
         link: "https://keeper-note-xi.vercel.app/",
         github: "https://github.com/FelipeMT21/keeper-note"
     },
-    {
-        title: "To Do List",
-        description: "Neste projeto, criei uma To-Do List integrada com o banco de dados MongoDB, permitindo ao usuário adicionar e apagar itens da lista, além de criar listas personalizadas através da URL, adicionando um nome após a barra '/'. O objetivo deste desafio foi aprimorar meus conhecimentos em JavaScript, Node.js, EJS, bancos de dados NoSQL e MongoDB. O código-fonte está disponível no meu repositório do GitHub:",
-        path: todolist,
-        flexDirection: "row",
-        link: "",
-        github: "https://github.com/FelipeMT21/todolist-project"
-    },
+    // {
+    //     title: "To Do List",
+    //     description: "Neste projeto, criei uma To-Do List integrada com o banco de dados MongoDB, permitindo ao usuário adicionar e apagar itens da lista, além de criar listas personalizadas através da URL, adicionando um nome após a barra '/'. O objetivo deste desafio foi aprimorar meus conhecimentos em JavaScript, Node.js, EJS, bancos de dados NoSQL e MongoDB. O código-fonte está disponível no meu repositório do GitHub:",
+    //     path: todolist,
+    //     flexDirection: "row",
+    //     link: "",
+    //     github: "https://github.com/FelipeMT21/todolist-project"
+    // },
     {
         title: "Simon Game",
         description: "Desafio proposto no curso The Complete 2023 Web Development Bootcamp. Neste projeto, criei um jogo do Simon que consiste em um desafio de memória com sequências de cores ou sons. O objetivo é repetir a sequência corretamente. O objetivo deste desafio foi aprimorar meus conhecimentos em JavaScript, funções e manipulação do DOM e jQuery para atualização da página. O código-fonte está disponível no meu repositório do GitHub:",
