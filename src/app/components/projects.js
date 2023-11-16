@@ -24,6 +24,15 @@ const projects = [
         link: "https://keeper-note-xi.vercel.app/",
         github: "https://github.com/FelipeMT21/keeper-note"
     },
+    {
+        title: "Drum Kit",
+        description: "Desafio proposto no curso The Complete 2023 Web Development Bootcamp. Neste projeto, criei uma bateria virtual que toca sons de instrumentos quando clicada com o mouse ou quando as teclas corretas são pressionadas. O objetivo deste desafio foi aprimorar meus conhecimentos em JavaScript, funções e manipulação do DOM para atualização da página. O código-fonte está disponível no meu repositório do GitHub:",
+        path: drumKit,
+        flexDirection: "row",
+        link: "https://felipemt21.github.io/drum-kit/",
+        github: "https://github.com/FelipeMT21/drum-kit"
+
+    },
     // {
     //     title: "To Do List",
     //     description: "Neste projeto, criei uma To-Do List integrada com o banco de dados MongoDB, permitindo ao usuário adicionar e apagar itens da lista, além de criar listas personalizadas através da URL, adicionando um nome após a barra '/'. O objetivo deste desafio foi aprimorar meus conhecimentos em JavaScript, Node.js, EJS, bancos de dados NoSQL e MongoDB. O código-fonte está disponível no meu repositório do GitHub:",
